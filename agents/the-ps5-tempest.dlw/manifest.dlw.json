@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tempest Engine",
+  "universe": "PS5 · The Tempest Engine (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Tempest Engine:PS5:222123⟧",
+  "carbon": "the-ps5-tempest.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-tempest.silicon.png (PNG)",
+  "seal_sha256": "6aca5148ffbb686a1fb5c9e15be1e8e0c0fe70edb98f2e0c725142fc0ea39b79",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

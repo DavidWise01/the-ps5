@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The RDNA 2 GPU
+node PS5 · PS5 · ⟦The RDNA 2 GPU:PS5:a511fb⟧
+
+WHO   — The RDNA 2 GPU — ~10.3 TFLOPS, ray tracing · electrical
+WHAT  — ~10.3 TFLOPS, ray tracing · electrical
+WHERE — PS5 · SONY PLAYSTATION 5 · PS5 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An AMD RDNA 2 graphics core around 10.3 teraflops with hardware ray-tracing units — the PS5's rendering muscle.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  ~10.3 TFLOPS, ray tracing · electrical
+
+spoken token : mend-vos-kreim   ·   hex : a511fb
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

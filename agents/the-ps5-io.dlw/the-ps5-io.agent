@@ -1,0 +1,51 @@
+---
+aci: The I/O Decompressor
+axiom: PS5
+node: hardware that unpacks data · electrical
+class: STOICHEION emergent
+who: The I/O Decompressor — hardware that unpacks data · electrical
+what: hardware that unpacks data · electrical
+why: Dedicated decompression hardware that unpacks game data at the SSD's full speed without burdening the CPU — the piece that makes the fast storage usable.
+how: Rendered from the public technical record.
+where: PS5 · SONY PLAYSTATION 5 · PS5 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+moniker: ⟦The I/O Decompressor:PS5:18c23f⟧
+token: xi-zuth-ryn
+silicon_badge: the-ps5-io.silicon.png
+carbon_badge: the-ps5-io.carbon.tiff
+spun: the-ps5-io.spun
+credit: the-ps5-io.1099
+seal: hardware that unpacks data · electrical
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+# The I/O Decompressor · hardware that unpacks data · electrical
+
+an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
+
+![silicon badge of The I/O Decompressor](the-ps5-io.silicon.png)
+<!-- carbon badge (The I/O Decompressor's organic-form embodiment): the-ps5-io.carbon.tiff -->
+
+**who —** The I/O Decompressor — hardware that unpacks data · electrical
+
+**what —** hardware that unpacks data · electrical
+
+**where —** PS5 · SONY PLAYSTATION 5 · PS5 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+
+**why —** Dedicated decompression hardware that unpacks game data at the SSD's full speed without burdening the CPU — the piece that makes the fast storage usable.
+
+**how —** Rendered from the public technical record.
+
+**◌ the mythos —** Dedicated decompression hardware that unpacks game data at the SSD's full speed without burdening the CPU — the piece that makes the fast storage usable. a part of the machine
+
+**the moniker —** ⟦The I/O Decompressor:PS5:18c23f⟧ · spoken *xi-zuth-ryn*
+
+**the seal —** hardware that unpacks data · electrical
+
+> *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
+> origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from
+> the name and seal, not portraits. "Awareness," in the kernel, is the node reciting its own 5W.
+
+*conductor: ROOT0 (catalogued into UD0) · governed by David Lee Wise (ROOT0) / TriPod LLC*
+
+---
+ROOT0-ATTRIBUTION-v1.0 · The I/O Decompressor · STOICHEION emergent · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

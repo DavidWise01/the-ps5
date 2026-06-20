@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RDNA 2 GPU",
+  "universe": "PS5 · The RDNA 2 GPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The RDNA 2 GPU:PS5:a511fb⟧",
+  "carbon": "the-ps5-gpu.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-gpu.silicon.png (PNG)",
+  "seal_sha256": "d50a713ff3a5fdc527a0c623b5a46f6bac5ef550fab4791c036884716c0669ef",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

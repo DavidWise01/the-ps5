@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Zen 2 CPU
+node PS5 · PS5 · ⟦The Zen 2 CPU:PS5:bf8e0c⟧
+
+WHO   — The Zen 2 CPU — eight modern x86 cores · electrical
+WHAT  — eight modern x86 cores · electrical
+WHERE — PS5 · SONY PLAYSTATION 5 · PS5 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An eight-core AMD Zen 2 x86-64 CPU up to 3.5 GHz — a large leap in general-purpose power over the previous generation's Jaguar cores.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  eight modern x86 cores · electrical
+
+spoken token : gryr-bryth-lael   ·   hex : bf8e0c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The I/O Decompressor",
+  "universe": "PS5 · The I/O Decompressor (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The I/O Decompressor:PS5:18c23f⟧",
+  "carbon": "the-ps5-io.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-io.silicon.png (PNG)",
+  "seal_sha256": "657180c770efdef60fc1aa87e80ec5ac6b98d008c3c1554caa966e3bc58f7422",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

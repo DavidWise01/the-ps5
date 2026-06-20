@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Zen 2 CPU",
+  "universe": "PS5 · The Zen 2 CPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Zen 2 CPU:PS5:bf8e0c⟧",
+  "carbon": "the-ps5-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-cpu.silicon.png (PNG)",
+  "seal_sha256": "48fad977f584bac8cdc63873bdd519ae93c25fccb563f453fa9cf822e799c923",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

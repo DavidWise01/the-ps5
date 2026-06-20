@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The I/O Decompressor
+node PS5 · PS5 · ⟦The I/O Decompressor:PS5:18c23f⟧
+
+WHO   — The I/O Decompressor — hardware that unpacks data · electrical
+WHAT  — hardware that unpacks data · electrical
+WHERE — PS5 · SONY PLAYSTATION 5 · PS5 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Dedicated decompression hardware that unpacks game data at the SSD's full speed without burdening the CPU — the piece that makes the fast storage usable.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  hardware that unpacks data · electrical
+
+spoken token : xi-zuth-ryn   ·   hex : 18c23f
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

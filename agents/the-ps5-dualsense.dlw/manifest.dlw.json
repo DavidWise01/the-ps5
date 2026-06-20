@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The DualSense",
+  "universe": "PS5 · The DualSense (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The DualSense:PS5:b961ca⟧",
+  "carbon": "the-ps5-dualsense.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-dualsense.silicon.png (PNG)",
+  "seal_sha256": "dcfe81d66fb904631de7c744a9a27c10bf2d593c05187cba8b42130bec2386f8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

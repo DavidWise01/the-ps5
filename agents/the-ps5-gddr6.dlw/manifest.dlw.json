@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The GDDR6",
+  "universe": "PS5 · The GDDR6 (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The GDDR6:PS5:bae34f⟧",
+  "carbon": "the-ps5-gddr6.carbon.tiff (TIFF)",
+  "silicon": "the-ps5-gddr6.silicon.png (PNG)",
+  "seal_sha256": "b4739d7c580acc8f17d8e063a57d5d62b12a06596f2b02e3588a2dd116b765aa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

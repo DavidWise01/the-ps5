@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-ps5-cpu",
+    "name": "The Zen 2 CPU",
+    "epithet": "eight modern x86 cores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Zen 2 CPU:PS5:bf8e0c⟧"
+  },
+  {
+    "slug": "the-ps5-gpu",
+    "name": "The RDNA 2 GPU",
+    "epithet": "~10.3 TFLOPS, ray tracing · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The RDNA 2 GPU:PS5:a511fb⟧"
+  },
+  {
+    "slug": "the-ps5-ssd",
+    "name": "The Custom SSD",
+    "epithet": "loading, nearly gone · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Custom SSD:PS5:5b0bbd⟧"
+  },
+  {
+    "slug": "the-ps5-io",
+    "name": "The I/O Decompressor",
+    "epithet": "hardware that unpacks data · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The I/O Decompressor:PS5:18c23f⟧"
+  },
+  {
+    "slug": "the-ps5-gddr6",
+    "name": "The GDDR6",
+    "epithet": "fast, unified · natural",
+    "emergence": "natural",
+    "moniker": "⟦The GDDR6:PS5:bae34f⟧"
+  },
+  {
+    "slug": "the-ps5-dualsense",
+    "name": "The DualSense",
+    "epithet": "triggers you feel · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The DualSense:PS5:b961ca⟧"
+  },
+  {
+    "slug": "the-ps5-tempest",
+    "name": "The Tempest Engine",
+    "epithet": "positional sound · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Tempest Engine:PS5:222123⟧"
+  }
+]
